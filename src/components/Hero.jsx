@@ -7,8 +7,12 @@ const Hero = () => {
   };
 
   const downloadCV = () => {
-    // You can add a CV download link here
-    window.open('/Mina-Hawarei-CV.pdf', '_blank');
+     const link = document.createElement('a');
+      link.href = '/Mina-Hawarei-CV.pdf'; // لازم يكون المسار صحيح
+      link.setAttribute('download', 'Mina-Hawarei-CV.pdf');
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
   };
 
   return (
