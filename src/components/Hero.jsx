@@ -59,7 +59,7 @@ const Hero = () => {
             className="text-xl md:text-2xl lg:text-3xl text-gray-300 font-light max-w-4xl mx-auto"
           >
             Software Developer & Technical Leader at{' '}
-            <span className="text-primary-400 font-semibold">WE | Silicon Waha</span>
+            <span className="text-primary-400 font-semibold">WE (Telecom Egypt)</span>
           </motion.h3>
 
           {/* Location */}
