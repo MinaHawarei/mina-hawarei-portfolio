@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://minahawarei.github.io/mina-portfolio",
+  "homepage": "https://minahawarei.github.io/mina-hawarei-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
