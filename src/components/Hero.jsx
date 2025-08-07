@@ -8,7 +8,7 @@ const Hero = () => {
 
   const downloadCV = () => {
     // You can add a CV download link here
-    window.open('/path-to-cv.pdf', '_blank');
+    window.open('/Mina-Hawarei-CV.pdf', '_blank');
   };
 
   return (
