@@ -8,7 +8,7 @@ const Hero = () => {
 
   const downloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/Mina-Hawarei-CV.pdf'; // لازم يكون المسار صحيح
+    link.href = '/Mina-Hawarei-CV.pdf'; 
     link.setAttribute('download', 'Mina-Hawarei-CV.pdf');
     document.body.appendChild(link);
     link.click();
@@ -80,7 +80,7 @@ const Hero = () => {
             transition={{ delay: 1.0, duration: 0.6 }}
             className="text-lg text-gray-400 max-w-2xl mx-auto leading-relaxed"
           >
-            Specializing in building internal tools that support customer service and technical teams.
+            Focused on developing scalable web applications, ERP systems, and tools that enhance business operations and team efficiency.
           </motion.p>
 
           {/* CTA Buttons */}
