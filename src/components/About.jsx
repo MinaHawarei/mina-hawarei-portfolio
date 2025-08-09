@@ -6,7 +6,7 @@ const About = () => {
     {
       icon: <FaCode className="text-2xl" />,
       title: "Back-End Development",
-      description: "Strong expertise in Laravel, PHP, and MySQL with over 5 years of experience"
+      description: "Strong expertise in Laravel, PHP, and MySQL with over one year of experience"
     },
     {
       icon: <FaDatabase className="text-2xl" />,
@@ -70,7 +70,7 @@ const About = () => {
                 Skilled in problem-solving and decision-making under pressure, with a proven commitment to high-quality project outcomes. Holding a Bachelor's degree in Management Information Systems and equipped with industry-recognized certifications in web development and database management, I'm ready to contribute to dynamic, backend-focused projects.
               </p>
               <p>
-                Currently serving as Software Developer & Technical Lead at WE | Silicon Waha, where I lead development of internal tools used by customer service and technical support teams, building and deploying full-stack applications like WE-Core and TTAnalyzer.
+                Currently serving as Software Developer & Technical Lead at WE , where I lead development of internal tools used by customer service and technical support teams, building and deploying full-stack applications like WE-Core and TTAnalyzer.
               </p>
             </div>
 
@@ -83,7 +83,7 @@ const About = () => {
               </div>
               <div className="bg-gray-700/50 rounded-lg p-4 border border-gray-600/30">
                 <h4 className="text-primary-400 font-semibold mb-2">Experience</h4>
-                <p className="text-sm text-gray-300">5+ Years Professional Experience</p>
+                <p className="text-sm text-gray-300">1+ Years Professional Experience</p>
                 <p className="text-xs text-gray-400">Backend Development & Team Leadership</p>
               </div>
               <div className="bg-gray-700/50 rounded-lg p-4 border border-gray-600/30">
