@@ -1,6 +1,6 @@
-# Mina Hawarei Sedky - Portfolio
+# Mina Hawarei - Portfolio
 
-A modern, responsive portfolio website showcasing the work and skills of Mina Hawarei Sedhom, a Software Developer & Technical Leader based in Alexandria, Egypt.
+A modern, responsive portfolio website showcasing the work and skills of Mina Hawarei , a Software Developer & Technical Leader based in Alexandria, Egypt.
 
 ## 🚀 Live Demo
 
@@ -150,4 +150,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Built with ❤️ by Mina Hawarei Sedhom
+Built with ❤️ by Mina Hawarei
