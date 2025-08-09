@@ -7,13 +7,14 @@ const Hero = () => {
   };
 
   const downloadCV = () => {
-     const link = document.createElement('a');
-      link.href = '/Mina-Hawarei-CV.pdf'; // لازم يكون المسار صحيح
-      link.setAttribute('download', 'Mina-Hawarei-CV.pdf');
-      document.body.appendChild(link);
-      link.click();
-      link.remove();
+    const link = document.createElement('a');
+    link.href = '/Mina-Hawarei-CV.pdf'; // لازم يكون المسار صحيح
+    link.setAttribute('download', 'Mina-Hawarei-CV.pdf');
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
   };
+
 
   return (
     <section className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900">
